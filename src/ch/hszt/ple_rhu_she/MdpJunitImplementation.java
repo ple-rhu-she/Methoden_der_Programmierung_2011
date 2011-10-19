@@ -53,7 +53,7 @@ public class MdpJunitImplementation implements IMdpJunitDemo {
 		String[] string = new String[3];
 		string[0] = "Steve";
 		string[1] = "Delia";
-		string[2] = "Böckten";
+		string[2] = "Boeckten";
 //		System.out.println(string.length());
 		System.out.println(new MdpJunitImplementation().join(string));
 	}
